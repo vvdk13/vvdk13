@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning in 21 school on general flow
+- 🔭 I’m currently working on Python parsers and getting data from other places
 <!--
 **vvdk13/vvdk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
