@@ -1,5 +1,4 @@
 ## Hi there 👋
-- 🌱 I’m currently learning in 21 school on general flow
 - 🔭 I’m currently working on Python parsers and getting data from other places
 - 🤔 I’m looking for job in data direction
 <!--
